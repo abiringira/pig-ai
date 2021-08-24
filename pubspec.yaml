@@ -75,7 +75,7 @@ dev_dependencies:
 
 # APP Launcher icon
 flutter_icons:
-  image_path: "assets/images/icon.png"
+  image_path: "assets/images/icon1.png"
   android: true
   ios: true
 

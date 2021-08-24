@@ -29,11 +29,11 @@ class WalkThrough extends StatelessWidget {
               WalkThroughTemplate(
                 title: "Umucyo",
                 subTitle: "Vet Consult Ltd.",
-                // image: Image.asset("assets/images/icon.png"),
+                // image: Image.asset("assets/images/icon1.png"),
                 image: Image(
                     height: 130,
                     width: 130,
-                    image: AssetImage('assets/images/icon.png')),
+                    image: AssetImage('assets/images/icon1.png')),
               ),
               WalkThroughTemplate(
                 title: "Pig",
@@ -41,7 +41,7 @@ class WalkThrough extends StatelessWidget {
                 image: Image(
                     height: 130,
                     width: 130,
-                    image: AssetImage('assets/images/icon.png')),
+                    image: AssetImage('assets/images/icon1.png')),
               ),
             ],
           )),
