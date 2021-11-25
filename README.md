@@ -1,6 +1,6 @@
 # PigAi
 
-Management of cargo(Clearing and forwarding)
+Futter application
 
 ## Getting Started
 
